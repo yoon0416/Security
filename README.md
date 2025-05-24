@@ -1,6 +1,7 @@
 # JANUS: 폐쇄망 전략적 침투 허용 기반 보안 아키텍처
 > 폐쇄망 기반 고위험 환경에서 침입 이후를 설계하는 전략적 판단 중심 보안 아키텍처
-> - 원본 야누스 (사회시스템 기반 보안 프로젝트) : [야누스 초기버전 (논문x)](https://github.com/yoon0416/Security/blob/main/%EC%95%BC%EB%88%84%EC%8A%A4Origin%20(%EB%85%BC%EB%AC%B8%20%EB%B2%84%EC%A0%84x)%20.md)
+> - 원본 야누스 (사회시스템 기반 보안 프로젝트) : [야누스 초기버전 (논문x) 바로가기](https://github.com/yoon0416/Security/blob/main/%EC%95%BC%EB%88%84%EC%8A%A4Origin%20(%EB%85%BC%EB%AC%B8%20%EB%B2%84%EC%A0%84x)%20.md)
+> - 신뢰점수 자바로직 : [신뢰점수 자바로직 바로가기](https://github.com/yoon0416/Security/blob/main/%EC%8B%A0%EB%A2%B0%EC%A0%90%EC%88%98%20%EB%A1%9C%EC%A7%81.java)
 
 ---
 
